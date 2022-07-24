@@ -1,0 +1,994 @@
+Name,Ticker,Exchange,Type,Market,ISIN,CUSIP
+Advanced Micro Devices Inc,AMD,NASDAQ,Equity,United States,US0079031078,007903107
+Apple Inc,AAPL,NASDAQ,Equity,United States,US0378331005,037833100
+Amazon.com Inc,AMZN,NASDAQ,Equity,United States,US0231351067,023135106
+NVIDIA Corporation,NVDA,NASDAQ,Equity,United States,US67066G1040,67066G104
+Ford Motor Company,F,NYSE,Equity,United States,US3453708600,345370860
+Endo International PLC,ENDP,NASDAQ,Equity,United States,IE00BJ3V9050,00BJ3V905
+Delta Air Lines Inc,DAL,NYSE,Equity,United States,US2473617023,247361702
+Bank of America Corp,BAC,NYSE,Equity,United States,US0605051046,060505104
+Tesla Inc,TSLA,NASDAQ,Equity,United States,US88160R1014,88160R101
+Southwestern Energy Company,SWN,NYSE,Equity,United States,US8454671095,845467109
+Barrick Gold Corp,GOLD,NYSE,Equity,United States,CA0679011084,067901108
+Mullen Automotive Inc,MULN,NASDAQ,Equity,United States,US62526P1093,62526P109
+Veru Inc,VERU,NASDAQ,Equity,United States,US92536C1036,92536C103
+Freeport-McMoran Copper & Gold Inc,FCX,NYSE,Equity,United States,US35671D8570,35671D857
+Microsoft Corporation,MSFT,NASDAQ,Equity,United States,US5949181045,594918104
+Intel Corporation,INTC,NASDAQ,Equity,United States,US4581401001,458140100
+Vale SA ADR,VALE,NYSE,Equity,United States,US91912E1055,91912E105
+Petroleo Brasileiro Petrobras SA ADR,PBR,NYSE,Equity,United States,US71654V4086,71654V408
+Citigroup Inc,C,NYSE,Equity,United States,US1729674242,172967424
+AT&T Inc,T,NYSE,Equity,United States,US00206R1023,00206R102
+Transocean Ltd,RIG,NYSE,Equity,United States,CH0048265513,H8817H100
+Clovis Oncology Inc,CLVS,NASDAQ,Equity,United States,US1894641000,189464100
+Occidental Petroleum Corporation,OXY,NYSE,Equity,United States,US6745991058,674599105
+Yamana Gold Inc,AUY,NYSE,Equity,United States,CA98462Y1007,98462Y100
+Kinross Gold Corp,KGC,NYSE,Equity,United States,CA4969024047,496902404
+CSX Corporation,CSX,NASDAQ,Equity,United States,US1264081035,126408103
+Exxon Mobil Corp,XOM,NYSE,Equity,United States,US30231G1022,30231G102
+Warner Bros Discovery Inc,WBD,NASDAQ,Equity,United States,US9344231041,934423104
+Cleveland-Cliffs Inc,CLF,NYSE,Equity,United States,US1858991011,185899101
+Gap Inc,GPS,NYSE,Equity,United States,US3647601083,364760108
+General Motors Company,GM,NYSE,Equity,United States,US37045V1008,37045V100
+FuelCell Energy Inc,FCEL,NASDAQ,Equity,United States,US35952H6018,35952H601
+Cisco Systems Inc,CSCO,NASDAQ,Equity,United States,US17275R1023,17275R102
+JetBlue Airways Corp,JBLU,NASDAQ,Equity,United States,US4771431016,477143101
+Huntington Bancshares Incorporated,HBAN,NASDAQ,Equity,United States,US4461501045,446150104
+Micron Technology Inc,MU,NASDAQ,Equity,United States,US5951121038,595112103
+United Airlines Holdings Inc,UAL,NASDAQ,Equity,United States,US9100471096,910047109
+Wells Fargo & Company,WFC,NYSE,Equity,United States,US9497461015,949746101
+Macy’s Inc,M,NYSE,Equity,United States,US55616P1049,55616P104
+Comcast Corp,CMCSA,NASDAQ,Equity,United States,US20030N1019,20030N101
+Marathon Oil Corporation,MRO,NYSE,Equity,United States,US5658491064,565849106
+Verizon Communications Inc,VZ,NYSE,Equity,United States,US92343V1044,92343V104
+Riot Blockchain Inc,RIOT,NASDAQ,Equity,United States,US7672921050,767292105
+Walt Disney Company,DIS,NYSE,Equity,United States,US2546871060,254687106
+United States Steel Corporation,X,NYSE,Equity,United States,US9129091081,912909108
+JPMorgan Chase & Co,JPM,NYSE,Equity,United States,US46625H1005,46625H100
+Coca-Cola Co,KO,NYSE,Equity,United States,US1912161007,191216100
+Qurate Retail Inc Series A,QRTEA,NASDAQ,Equity,United States,US74915M1009,74915M100
+Boeing Co,BA,NYSE,Equity,United States,US0970231058,097023105
+Sirius XM Holding Inc,SIRI,NASDAQ,Equity,United States,US82968B1035,82968B103
+Pfizer Inc,PFE,NYSE,Equity,United States,US7170811035,717081103
+Netflix Inc,NFLX,NASDAQ,Equity,United States,US64110L1061,64110L106
+Southwest Airlines Company,LUV,NYSE,Equity,United States,US8447411088,844741108
+Schlumberger NV,SLB,NYSE,Equity,United States,AN8068571086,806857108
+APA Corporation,APA,NASDAQ,Equity,United States,US03743Q1085,03743Q108
+Devon Energy Corporation,DVN,NYSE,Equity,United States,US25179M1036,25179M103
+Gold Fields Ltd ADR,GFI,NYSE,Equity,United States,US38059T1060,38059T106
+Fastenal Company,FAST,NASDAQ,Equity,United States,US3119001044,311900104
+Gevo Inc,GEVO,NASDAQ,Equity,United States,US3743964062,374396406
+AGNC Investment Corp,AGNC,NASDAQ,Equity,United States,US00123Q1040,00123Q104
+BlackBerry Ltd,BB,NYSE,Equity,United States,CA09228F1036,09228F103
+Teva Pharma Industries Ltd ADR,TEVA,NYSE,Equity,United States,US8816242098,881624209
+Coterra Energy Inc,CTRA,NYSE,Equity,United States,US1270971039,127097103
+Halliburton Company,HAL,NYSE,Equity,United States,US4062161017,406216101
+Baker Hughes Co,BKR,NASDAQ,Equity,United States,US05722G1004,05722G100
+Viatris Inc,VTRS,NASDAQ,Equity,United States,US92556V1061,92556V106
+Sharing Economy International Inc,SEII,OTC Markets,Equity,United States,US8195342071,819534207
+Invesco Plc,IVZ,NYSE,Equity,United States,BMG491BT1088,G491BT108
+Bed Bath & Beyond Inc,BBBY,NASDAQ,Equity,United States,US0758961009,075896100
+Infosys Ltd ADR,INFY,NYSE,Equity,United States,US4567881085,456788108
+Qualcomm Incorporated,QCOM,NASDAQ,Equity,United States,US7475251036,747525103
+Nextera Energy Inc,NEE,NYSE,Equity,United States,US65339F1012,65339F101
+Chevron Corp,CVX,NYSE,Equity,United States,US1667641005,166764100
+Regions Financial Corporation,RF,NYSE,Equity,United States,US7591EP1005,7591EP100
+EQT Corporation,EQT,NYSE,Equity,United States,US26884L1098,26884L109
+Bristol-Myers Squibb Company,BMY,NYSE,Equity,United States,US1101221083,110122108
+HP Inc,HPQ,NYSE,Equity,United States,US40434L1052,40434L105
+The Mosaic Company,MOS,NYSE,Equity,United States,US61945C1036,61945C103
+Morgan Stanley,MS,NYSE,Equity,United States,US6174464486,617446448
+PG&E Corp,PCG,NYSE,Equity,United States,US69331C1080,69331C108
+Marvell Technology Group Ltd,MRVL,NASDAQ,Equity,United States,US5738741041,573874104
+Trip.com Group Ltd ADR,TCOM,NASDAQ,Equity,United States,US89677Q1076,89677Q107
+Kraft Heinz Co,KHC,NASDAQ,Equity,United States,US5007541064,500754106
+Dow Inc,DOW,NYSE,Equity,United States,US2605571031,260557103
+Altria Group,MO,NYSE,Equity,United States,US02209S1033,02209S103
+Salesforce.com Inc,CRM,NYSE,Equity,United States,US79466L3024,79466L302
+Harmony Gold Mining Company Limited,HMY,NYSE,Equity,United States,US4132163001,413216300
+Boston Scientific Corp,BSX,NYSE,Equity,United States,US1011371077,101137107
+NortonLifeLock Inc,NLOK,NASDAQ,Equity,United States,US6687711084,668771108
+Applied Materials Inc,AMAT,NASDAQ,Equity,United States,US0382221051,038222105
+ConocoPhillips,COP,NYSE,Equity,United States,US20825C1045,20825C104
+Teck Resources Ltd Class B,TECK,NYSE,Equity,United States,CA8787422044,878742204
+Newmont Goldcorp Corp,NEM,NYSE,Equity,United States,US6516391066,651639106
+Williams Companies Inc,WMB,NYSE,Equity,United States,US9694571004,969457100
+ConAgra Foods Inc,CAG,NYSE,Equity,United States,US2058871029,205887102
+Raytheon Technologies Corp,RTX,NYSE,Equity,United States,US75513E1010,75513E101
+Agenus Inc,AGEN,NASDAQ,Equity,United States,US00847G7051,00847G705
+Color Star Technology Co Ltd,CSCW,NASDAQ,Equity,United States,KYG2287A1004,G2287A100
+Oracle Corporation,ORCL,NYSE,Equity,United States,US68389X1054,68389X105
+TJX Companies Inc,TJX,NYSE,Equity,United States,US8725401090,872540109
+Fifth Third Bancorp,FITB,NASDAQ,Equity,United States,US3167731005,316773100
+KeyCorp,KEY,NYSE,Equity,United States,US4932671088,493267108
+Walgreens Boots Alliance Inc,WBA,NASDAQ,Equity,United States,US9314271084,931427108
+MetLife Inc,MET,NYSE,Equity,United States,US59156R1086,59156R108
+Icici Bank Limited ADR,IBN,NYSE,Equity,United States,US45104G1040,45104G104
+Paramount Global Class B,PARA,NASDAQ,Equity,United States,US92556H2067,92556H206
+U.S. Bancorp,USB,NYSE,Equity,United States,US9029733048,902973304
+Johnson Controls International PLC,JCI,NYSE,Equity,United States,IE00BY7QL619,NA
+Gilead Sciences Inc,GILD,NASDAQ,Equity,United States,US3755581036,375558103
+DR Horton Inc,DHI,NYSE,Equity,United States,US23331A1097,23331A109
+Lumen Technologies Inc,LUMN,NYSE,Equity,United States,US5502411037,550241103
+Merck & Company Inc,MRK,NYSE,Equity,United States,US58933Y1055,58933Y105
+Activision Blizzard Inc,ATVI,NASDAQ,Equity,United States,US00507V1098,00507V109
+Marathon Petroleum Corp,MPC,NYSE,Equity,United States,US56585A1025,56585A102
+Johnson & Johnson,JNJ,NYSE,Equity,United States,US4781601046,478160104
+Truist Financial Corp,TFC,NYSE,Equity,United States,US89832Q1094,89832Q109
+Goodyear Tire & Rubber Co,GT,NASDAQ,Equity,United States,US3825501014,382550101
+Las Vegas Sands Corp,LVS,NYSE,Equity,United States,US5178341070,517834107
+Nike Inc,NKE,NYSE,Equity,United States,US6541061031,654106103
+Keurig Dr Pepper Inc,KDP,NASDAQ,Equity,United States,US49271V1008,49271V100
+Nordstrom Inc,JWN,NYSE,Equity,United States,US6556641008,655664100
+Berkshire Hathaway B,BRKb,NYSE,Equity,United States,US0846707026,084670702
+Philip Morris International Inc,PM,NYSE,Equity,United States,US7181721090,718172109
+Exelon Corporation,EXC,NASDAQ,Equity,United States,US30161N1019,30161N101
+Procter & Gamble Company,PG,NYSE,Equity,United States,US7427181091,742718109
+Host Hotels & Resorts Inc,HST,NASDAQ,Equity,United States,US44107P1049,44107P104
+General Electric Company,GE,NYSE,Equity,United States,US3696043013,369604301
+eBay Inc,EBAY,NASDAQ,Equity,United States,US2786421030,278642103
+Range Resources Corp,RRC,NYSE,Equity,United States,US75281A1097,75281A109
+Kroger Company,KR,NYSE,Equity,United States,US5010441013,501044101
+Alcoa Corp,AA,NYSE,Equity,United States,US0138721065,013872106
+Under Armour Inc A,UAA,NYSE,Equity,United States,US9043111072,904311107
+Blackstone Group Inc,BX,NYSE,Equity,United States,US09260D1072,09260D107
+Ballard Power Systems Inc,BLDP,NASDAQ,Equity,United States,CA0585861085,058586108
+Weyerhaeuser Company,WY,NYSE,Equity,United States,US9621661043,962166104
+Medtronic PLC,MDT,NYSE,Equity,United States,IE00BTN1Y115,00BTN1Y11
+Starbucks Corporation,SBUX,NASDAQ,Equity,United States,US8552441094,855244109
+TechnipFMC PLC,FTI,NYSE,Equity,United States,GB00BDSFG982,30249U101
+Fortinet Inc,FTNT,NASDAQ,Equity,United States,US34959E1091,34959E109
+Nov Inc,NOV,NYSE,Equity,United States,US62955J1034,62955J103
+Walmart Inc,WMT,NYSE,Equity,United States,US9311421039,931142103
+Franklin Resources Inc,BEN,NYSE,Equity,United States,US3546131018,354613101
+Wipro Limited ADR,WIT,NYSE,Equity,United States,US97651M1099,97651M109
+PepsiCo Inc,PEP,NASDAQ,Equity,United States,US7134481081,713448108
+Amyris Inc,AMRS,NASDAQ,Equity,United States,US03236M2008,03236M200
+EOG Resources Inc,EOG,NYSE,Equity,United States,US26875P1012,26875P101
+America Movil SAB de CV ADR,AMX,NYSE,Equity,United States,US02364W1053,02364W105
+Kohls Corp,KSS,NYSE,Equity,United States,US5002551043,500255104
+Visa Inc Class A,V,NYSE,Equity,United States,US92826C8394,92826C839
+GameStop Corp,GME,NYSE,Equity,United States,US36467W1099,36467W109
+CTi Biopharma Corp,CTIC,NASDAQ,Equity,United States,US12648L6011,12648L601
+International Business Machines,IBM,NYSE,Equity,United States,US4592001014,459200101
+Charles Schwab Corp,SCHW,NYSE,Equity,United States,US8085131055,808513105
+Dell Technologies Inc,DELL,NYSE,Equity,United States,US24703L2025,24703L202
+MGM Resorts International,MGM,NYSE,Equity,United States,US5529531015,552953101
+Texas Instruments Incorporated,TXN,NASDAQ,Equity,United States,US8825081040,882508104
+AcelRx Pharmaceuticals Inc,ACRX,NASDAQ,Equity,United States,US00444T1007,00444T100
+Wheaton Precious Metals Corp,WPM,NYSE,Equity,United States,CA9628791027,962879102
+Genworth Financial Inc,GNW,NYSE,Equity,United States,US37247D1063,37247D106
+Abbott Laboratories,ABT,NYSE,Equity,United States,US0028241000,002824100
+Valero Energy Corporation,VLO,NYSE,Equity,United States,US91913Y1001,91913Y100
+Agnico Eagle Mines Limited,AEM,NYSE,Equity,United States,CA0084741085,008474108
+The AES Corporation,AES,NYSE,Equity,United States,US00130H1059,00130H105
+Southern Company,SO,NYSE,Equity,United States,US8425871071,842587107
+CVS Health Corp,CVS,NYSE,Equity,United States,US1266501006,126650100
+PPL Corporation,PPL,NYSE,Equity,United States,US69351T1060,69351T106
+Cognizant Technology Solutions Corp Class A,CTSH,NASDAQ,Equity,United States,US1924461023,192446102
+Flex Ltd,FLEX,NASDAQ,Equity,United States,SG9999000020,999900002
+Ingersoll Rand Inc,IR,NYSE,Equity,United States,US45687V1061,45687V106
+Fiserv Inc,FISV,NASDAQ,Equity,United States,US3377381088,337738108
+Wynn Resorts Limited,WYNN,NASDAQ,Equity,United States,US9831341071,983134107
+Cameco Corp,CCJ,NYSE,Equity,United States,CA13321L1085,13321L108
+Campbell Soup Company,CPB,NYSE,Equity,United States,US1344291091,134429109
+General Mills Inc,GIS,NYSE,Equity,United States,US3703341046,370334104
+UnitedHealth Group Incorporated,UNH,NYSE,Equity,United States,US91324P1021,91324P102
+Progressive Corp,PGR,NYSE,Equity,United States,US7433151039,743315103
+American International Group Inc,AIG,NYSE,Equity,United States,US0268747849,026874784
+UBS Group AG,UBS,NYSE,Equity,United States,CH0244767585,24476758
+Bank of New York Mellon,BK,NYSE,Equity,United States,US0640581007,064058100
+CenterPoint Energy Inc,CNP,NYSE,Equity,United States,US15189T1079,15189T107
+American Express Company,AXP,NYSE,Equity,United States,US0258161092,025816109
+Ross Stores Inc,ROST,NASDAQ,Equity,United States,US7782961038,778296103
+Bausch Health Companies Inc,BHC,NYSE,Equity,United States,CA0717341071,071734107
+Juniper Networks Inc,JNPR,NYSE,Equity,United States,US48203R1041,48203R104
+Extreme Networks Inc,EXTR,NASDAQ,Equity,United States,US30226D1063,30226D106
+Lowe’s Companies Inc,LOW,NYSE,Equity,United States,US5486611073,548661107
+Statera Biopharma Inc,STAB,NASDAQ,Equity,United States,US8575611046,857561104
+Bath & Body Works Inc.,BBWI,NYSE,Equity,United States,US0708301041,070830104
+Cemex SAB de CV ADR,CX,NYSE,Equity,United States,US1512908898,151290889
+Builders FirstSource Inc,BLDR,NYSE,Equity,United States,US12008R1077,12008R107
+Target Corporation,TGT,NYSE,Equity,United States,US87612E1064,87612E106
+Healthpeak Properties Inc,PEAK,NYSE,Equity,United States,US42250P1030,42250P103
+Tapestry Inc,TPR,NYSE,Equity,United States,US8760301072,876030107
+Eli Lilly and Company,LLY,NYSE,Equity,United States,US5324571083,532457108
+Microchip Technology Inc,MCHP,NASDAQ,Equity,United States,US5950171042,595017104
+DISH Network Corporation,DISH,NASDAQ,Equity,United States,US25470M1099,25470M109
+Kimco Realty Corporation,KIM,NYSE,Equity,United States,US49446R1095,49446R109
+CNX Resources Corp,CNX,NYSE,Equity,United States,US12653C1080,12653C108
+Athersys Inc,ATHX,NASDAQ,Equity,United States,US04744L1061,04744L106
+Dominion Energy Inc,D,NYSE,Equity,United States,US25746U1097,25746U109
+Corning Incorporated,GLW,NYSE,Equity,United States,US2193501051,219350105
+Public Service Enterprise Group Inc,PEG,NYSE,Equity,United States,US7445731067,744573106
+Caterpillar Inc,CAT,NYSE,Equity,United States,US1491231015,149123101
+SSR Mining Inc,SSRM,NASDAQ,Equity,United States,CA7847301032,784730103
+Pan American Silver Corp,PAAS,NASDAQ,Equity,United States,CA6979001089,697900108
+Lennar Corporation,LEN,NYSE,Equity,United States,US5260571048,526057104
+Amicus Therapeutics Inc,FOLD,NASDAQ,Equity,United States,US03152W1099,03152W109
+BioCryst Pharmaceuticals Inc,BCRX,NASDAQ,Equity,United States,US09058V1035,09058V103
+Catalyst Pharmaceuticals Inc,CPRX,NASDAQ,Equity,United States,US14888U1016,14888U101
+Kellogg Company,K,NYSE,Equity,United States,US4878361082,487836108
+Mattel Inc,MAT,NASDAQ,Equity,United States,US5770811025,577081102
+Best Buy Co Inc,BBY,NYSE,Equity,United States,US0865161014,086516101
+3M Company,MMM,NYSE,Equity,United States,US88579Y1010,88579Y101
+Alphabet Inc Class A,GOOGL,NASDAQ,Equity,United States,US02079K3059,02079K305
+State Street Corp,STT,NYSE,Equity,United States,US8574771031,857477103
+Home Depot Inc,HD,NYSE,Equity,United States,US4370761029,437076102
+S&P Global Inc,SPGI,NYSE,Equity,United States,US78409V1044,78409V104
+VF Corporation,VFC,NYSE,Equity,United States,US9182041080,918204108
+United Parcel Service Inc,UPS,NYSE,Equity,United States,US9113121068,911312106
+Intercontinental Exchange Inc,ICE,NYSE,Equity,United States,US45866F1049,45866F104
+Baxter International Inc,BAX,NYSE,Equity,United States,US0718131099,071813109
+Prudential Financial Inc,PRU,NYSE,Equity,United States,US7443201022,744320102
+Western Union Co,WU,NYSE,Equity,United States,US9598021098,959802109
+Mitsubishi UFJ Financial Group Inc ADR,MUFG,NYSE,Equity,United States,US6068221042,606822104
+NiSource Inc,NI,NYSE,Equity,United States,US65473P1057,65473P105
+Newell Brands Inc,NWL,NASDAQ,Equity,United States,US6512291062,651229106
+NXP Semiconductors NV,NXPI,NASDAQ,Equity,United States,NL0009538784,N6596X109
+Prologis Inc,PLD,NYSE,Equity,United States,US74340W1036,74340W103
+Dupont De Nemours Inc,DD,NYSE,Equity,United States,US26614N1028,26614N102
+SLM Corp,SLM,NASDAQ,Equity,United States,US78442P1066,78442P106
+Cyclacel Pharmaceuticals Inc,CYCC,NASDAQ,Equity,United States,US23254L6039,23254L603
+Patterson-UTI Energy Inc,PTEN,NASDAQ,Equity,United States,US7034811015,703481101
+T. Rowe Price Group Inc,TROW,NASDAQ,Equity,United States,US74144T1088,74144T108
+Urban Outfitters Inc,URBN,NASDAQ,Equity,United States,US9170471026,917047102
+Mastercard Inc,MA,NYSE,Equity,United States,US57636Q1040,57636Q104
+Capital One Financial Corporation,COF,NYSE,Equity,United States,US14040H1059,14040H105
+CF Industries Holdings Inc,CF,NYSE,Equity,United States,US1252691001,125269100
+Thermo Fisher Scientific Inc,TMO,NYSE,Equity,United States,US8835561023,883556102
+Monster Beverage Corp,MNST,NASDAQ,Equity,United States,US61174X1090,61174X109
+International Paper,IP,NYSE,Equity,United States,US4601461035,460146103
+Duke Energy Corporation,DUK,NYSE,Equity,United States,US26441C2044,26441C204
+McDonald’s Corporation,MCD,NYSE,Equity,United States,US5801351017,580135101
+Costco Wholesale Corp,COST,NASDAQ,Equity,United States,US22160K1051,22160K105
+FedEx Corporation,FDX,NYSE,Equity,United States,US31428X1063,31428X106
+FirstEnergy Corporation,FE,NYSE,Equity,United States,US3379321074,337932107
+Geron Corporation,GERN,NASDAQ,Equity,United States,US3741631036,374163103
+Adobe Systems Incorporated,ADBE,NASDAQ,Equity,United States,US00724F1012,00724F101
+Expedia Inc,EXPE,NASDAQ,Equity,United States,US30212P3038,30212P303
+CBRE Group Inc Class A,CBRE,NYSE,Equity,United States,US12504L1098,12504L109
+Marriott International Inc,MAR,NASDAQ,Equity,United States,US5719032022,571903202
+Mizuho Financial Group Inc ADR,MFG,NYSE,Equity,United States,US60687Y1091,60687Y109
+NRG Energy Inc,NRG,NYSE,Equity,United States,US6293775085,629377508
+Goldman Sachs Group Inc,GS,NYSE,Equity,United States,US38141G1040,38141G104
+Interpublic Group of Companies Inc,IPG,NYSE,Equity,United States,US4606901001,460690100
+Molson Coors Brewing Co Class B,TAP,NYSE,Equity,United States,US60871R2094,60871R209
+Analog Devices Inc,ADI,NASDAQ,Equity,United States,US0326541051,032654105
+Accenture plc,ACN,NYSE,Equity,United States,IE00B4BNMY34,G1151C101
+Marsh & McLennan Companies Inc,MMC,NYSE,Equity,United States,US5717481023,571748102
+Aflac Inc,AFL,NYSE,Equity,United States,US0010551028,001055102
+Fidelity National Information Services Inc,FIS,NYSE,Equity,United States,US31620M1062,31620M106
+Emerson Electric Company,EMR,NYSE,Equity,United States,US2910111044,291011104
+First Horizon National Corporation,FHN,NYSE,Equity,United States,US3205171057,320517105
+Clean Energy Fuels Corp,CLNE,NASDAQ,Equity,United States,US1844991018,184499101
+Ball Corporation,BALL,NYSE,Equity,United States,US0584981064,058498106
+Honeywell International Inc,HON,NASDAQ,Equity,United States,US4385161066,438516106
+ONEOK Inc,OKE,NYSE,Equity,United States,US6826801036,682680103
+NetEase Inc,NTES,NASDAQ,Equity,United States,US64110W1027,64110W102
+Amgen Inc,AMGN,NASDAQ,Equity,United States,US0311621009,031162100
+PNC Financial Services Group Inc,PNC,NYSE,Equity,United States,US6934751057,693475105
+Archer-Daniels-Midland Company,ADM,NYSE,Equity,United States,US0394831020,039483102
+Coca-Cola European Partners PLC,CCEP,NASDAQ,Equity,United States,GB00BDCPN049,00BDCPN04
+PACCAR Inc,PCAR,NASDAQ,Equity,United States,US6937181088,693718108
+PulteGroup Inc,PHM,NYSE,Equity,United States,US7458671010,745867101
+Colgate-Palmolive Company,CL,NYSE,Equity,United States,US1941621039,194162103
+American Electric Power Company Inc,AEP,NASDAQ,Equity,United States,US0255371017,025537101
+Simon Property Group Inc,SPG,NYSE,Equity,United States,US8288061091,828806109
+Cinedigm Corp,CIDM,NASDAQ,Equity,United States,US1724062096,172406209
+Danaher Corporation,DHR,NYSE,Equity,United States,US2358511028,235851102
+EXACT Sciences Corporation,EXAS,NASDAQ,Equity,United States,US30063P1057,30063P105
+Baidu Inc,BIDU,NASDAQ,Equity,United States,US0567521085,056752108
+Cardinal Health Inc,CAH,NYSE,Equity,United States,US14149Y1082,14149Y108
+Broadcom Inc,AVGO,NASDAQ,Equity,United States,US11135F1012,11135F101
+Western Digital Corporation,WDC,NASDAQ,Equity,United States,US9581021055,958102105
+Dollar Tree Inc,DLTR,NASDAQ,Equity,United States,US2567461080,256746108
+Electronic Arts Inc,EA,NASDAQ,Equity,United States,US2855121099,285512109
+International Game Technology PLC,IGT,NYSE,Equity,United States,GB00BVG7F061,00BVG7F06
+Hess Corporation,HES,NYSE,Equity,United States,US42809H1077,42809H107
+Allstate Corp,ALL,NYSE,Equity,United States,US0200021014,020002101
+Chimera Investment Corporation,CIM,NYSE,Equity,United States,US16934Q2084,16934Q208
+NetApp Inc,NTAP,NASDAQ,Equity,United States,US64110D1046,64110D104
+Discover Financial Services,DFS,NYSE,Equity,United States,US2547091080,254709108
+DexCom Inc,DXCM,NASDAQ,Equity,United States,US2521311074,252131107
+Cigna Corp,CI,NYSE,Equity,United States,US1255231003,125523100
+Southern Copper Corporation,SCCO,NYSE,Equity,United States,US84265V1052,84265V105
+Pioneer Natural Resources Co,PXD,NYSE,Equity,United States,US7237871071,723787107
+Edwards Lifesciences Corp,EW,NYSE,Equity,United States,US28176E1082,28176E108
+SunPower Corporation,SPWR,NASDAQ,Equity,United States,US8676524064,867652406
+Eaton Corporation PLC,ETN,NYSE,Equity,United States,IE00B8KQN827,00B8KQN82
+Union Pacific Corporation,UNP,NYSE,Equity,United States,US9078181081,907818108
+Illumina Inc,ILMN,NASDAQ,Equity,United States,US4523271090,452327109
+Seagate Technology PLC,STX,NASDAQ,Equity,United States,IE00BKVD2N49,G7945M107
+Masco Corporation,MAS,NYSE,Equity,United States,US5745991068,574599106
+Nucor Corp,NUE,NYSE,Equity,United States,US6703461052,670346105
+News Corp A,NWSA,NASDAQ,Equity,United States,US65249B1098,65249B109
+Zions Bancorporation,ZION,NASDAQ,Equity,United States,US9897011071,989701107
+Vornado Realty Trust,VNO,NYSE,Equity,United States,US9290421091,929042109
+Unum Group,UNM,NYSE,Equity,United States,US91529Y1064,91529Y106
+Intuitive Surgical Inc,ISRG,NASDAQ,Equity,United States,US46120E6023,46120E602
+Carter’s Inc,CRI,NYSE,Equity,United States,US1462291097,146229109
+Citrix Systems Inc,CTXS,NASDAQ,Equity,United States,US1773761002,177376100
+Principal Financial Group Inc,PFG,NASDAQ,Equity,United States,US74251V1026,74251V102
+Viavi Solutions Inc,VIAV,NASDAQ,Equity,United States,US9255501051,925550105
+Tyson Foods Inc,TSN,NYSE,Equity,United States,US9024941034,902494103
+Welltower Inc,WELL,NYSE,Equity,United States,US95040Q1040,95040Q104
+Sherwin-Williams Co,SHW,NYSE,Equity,United States,US8243481061,824348106
+Site Centers Corp,SITC,NYSE,Equity,United States,US82981J1097,82981J109
+MGIC Investment Corp,MTG,NYSE,Equity,United States,US5528481030,552848103
+Sysco Corporation,SYY,NYSE,Equity,United States,US8718291078,871829107
+Entegris Inc,ENTG,NASDAQ,Equity,United States,US29362U1043,29362U104
+Pitney Bowes Inc,PBI,NYSE,Equity,United States,US7244791007,724479100
+The Chefs Warehouse Inc,CHEF,NASDAQ,Equity,United States,US1630861011,163086101
+Cerus Corporation,CERS,NASDAQ,Equity,United States,US1570851014,157085101
+HDFC Bank Limited ADR,HDB,NYSE,Equity,United States,US40415F1012,40415F101
+Crocs Inc,CROX,NASDAQ,Equity,United States,US2270461096,227046109
+Take-Two Interactive Software Inc,TTWO,NASDAQ,Equity,United States,US8740541094,874054109
+ZW Data Action Technologies Inc,CNET,NASDAQ,Equity,United States,US98880R1095,98880R109
+ACADIA Pharmaceuticals Inc,ACAD,NASDAQ,Equity,United States,US0042251084,004225108
+Compugen,CGEN,NASDAQ,Equity,United States,IL0010852080,M25722105
+Wolfspeed Inc,WOLF,NYSE,Equity,United States,US9778521024,977852102
+Expeditors International of Washington Inc,EXPD,NASDAQ,Equity,United States,US3021301094,302130109
+Paychex Inc,PAYX,NASDAQ,Equity,United States,US7043261079,704326107
+Stanley Black & Decker Inc,SWK,NYSE,Equity,United States,US8545021011,854502101
+NCR Corp,NCR,NYSE,Equity,United States,US62886E1082,62886E108
+Ventas Inc,VTR,NYSE,Equity,United States,US92276F1003,92276F100
+Chubb Ltd,CB,NYSE,Equity,United States,CH0044328745,NA
+Xcel Energy Inc,XEL,NASDAQ,Equity,United States,US98389B1008,98389B100
+CoStar Group Inc,CSGP,NASDAQ,Equity,United States,US22160N1090,22160N109
+Lazard Ltd,LAZ,NYSE,Equity,United States,BMG540501027,G54050102
+Abercrombie & Fitch Company,ANF,NYSE,Equity,United States,US0028962076,002896207
+Associated Banc-Corp,ASB,NYSE,Equity,United States,US0454871056,045487105
+Honda Motor Co Ltd ADR,HMC,NYSE,Equity,United States,US4381283088,438128308
+Hologic Inc,HOLX,NASDAQ,Equity,United States,US4364401012,436440101
+Edison International,EIX,NYSE,Equity,United States,US2810201077,281020107
+Avadel Pharmaceuticals PLC,AVDL,NASDAQ,Equity,United States,US05337M1045,05337M104
+Intuit Inc,INTU,NASDAQ,Equity,United States,US4612021034,461202103
+Fluor Corporation,FLR,NYSE,Equity,United States,US3434121022,343412102
+Murphy Oil Corporation,MUR,NYSE,Equity,United States,US6267171022,626717102
+Steel Dynamics Inc,STLD,NASDAQ,Equity,United States,US8581191009,858119100
+Autodesk Inc,ADSK,NASDAQ,Equity,United States,US0527691069,052769106
+Agilent Technologies Inc,A,NYSE,Equity,United States,US00846U1016,00846U101
+Liberty Global PLC,LBTYA,NASDAQ,Equity,United States,GB00B8W67662,00B8W6766
+Curis Inc,CRIS,NASDAQ,Equity,United States,US2312692005,231269200
+Iron Mountain Incorporated,IRM,NYSE,Equity,United States,US46284V1017,46284V101
+American Tower Corp,AMT,NYSE,Equity,United States,US03027X1000,03027X100
+KB Home,KBH,NYSE,Equity,United States,US48666K1097,48666K109
+Deere & Company,DE,NYSE,Equity,United States,US2441991054,244199105
+8x8 Inc,EGHT,NYSE,Equity,United States,US2829141009,282914100
+Ecolab Inc,ECL,NYSE,Equity,United States,US2788651006,278865100
+Estee Lauder Companies Inc,EL,NYSE,Equity,United States,US5184391044,518439104
+O-I Glass Inc,OI,NYSE,Equity,United States,US67098H1041,67098H104
+Amphenol Corporation,APH,NYSE,Equity,United States,US0320951017,032095101
+Parker-Hannifin Corporation,PH,NYSE,Equity,United States,US7010941042,701094104
+Dentsply Sirona Inc,XRAY,NASDAQ,Equity,United States,US24906P1093,24906P109
+Darden Restaurants Inc,DRI,NYSE,Equity,United States,US2371941053,237194105
+Norfolk Southern Corporation,NSC,NYSE,Equity,United States,US6558441084,655844108
+Clorox Co,CLX,NYSE,Equity,United States,US1890541097,189054109
+Teradyne Inc,TER,NASDAQ,Equity,United States,US8807701029,880770102
+Aeterna Zentaris Inc,AEZS,NASDAQ,Equity,United States,CA0079754028,007975402
+Check Point Software Technologies Ltd,CHKP,NASDAQ,Equity,United States,IL0010824113,001082411
+Kimberly-Clark Corporation,KMB,NYSE,Equity,United States,US4943681035,494368103
+Allegheny Technologies Incorporated,ATI,NYSE,Equity,United States,US01741R1023,01741R102
+Consolidated Edison Inc,ED,NYSE,Equity,United States,US2091151041,209115104
+Constellation Brands Inc Class A,STZ,NYSE,Equity,United States,US21036P1084,21036P108
+Waste Management Inc,WM,NYSE,Equity,United States,US94106L1098,94106L109
+Yellow Corp,YELL,NASDAQ,Equity,United States,US9855101062,985510106
+Omnicom Group Inc,OMC,NYSE,Equity,United States,US6819191064,681919106
+Illinois Tool Works Inc,ITW,NYSE,Equity,United States,US4523081093,452308109
+Apartment Investment and Management Co,AIV,NYSE,Equity,United States,US03748R7474,03748R747
+ADTRAN Inc,ADTN,NASDAQ,Equity,United States,US00486H1059,00486H105
+VMware Inc,VMW,NYSE,Equity,United States,US9285634021,928563402
+Xerox Corp,XRX,NASDAQ,Equity,United States,US98421M1062,00098421M106
+KLA-Tencor Corporation,KLAC,NASDAQ,Equity,United States,US4824801009,482480100
+Alliance Resource Partners LP,ARLP,NASDAQ,Equity,United States,US01877R1086,01877R108
+Vertex Pharmaceuticals Inc,VRTX,NASDAQ,Equity,United States,US92532F1003,92532F100
+Lincoln National Corporation,LNC,NYSE,Equity,United States,US5341871094,534187109
+Hartford Financial Services Group,HIG,NYSE,Equity,United States,US4165151048,416515104
+Tupperware Brands Corporation,TUP,NYSE,Equity,United States,US8998961044,899896104
+Seagen Inc,SGEN,NASDAQ,Equity,United States,US81181C1045,81181C104
+Durect Corporation,DRRX,NASDAQ,Equity,United States,US2666051048,266605104
+M&T Bank Corp,MTB,NYSE,Equity,United States,US55261F1049,55261F104
+CH Robinson Worldwide Inc,CHRW,NASDAQ,Equity,United States,US12541W2098,12541W209
+CMS Energy Corporation,CMS,NYSE,Equity,United States,US1258961002,125896100
+Automatic Data Processing Inc,ADP,NASDAQ,Equity,United States,US0530151036,053015103
+Essential Utilities Inc,WTRG,NYSE,Equity,United States,US29670G1022,29670G102
+JB Hunt Transport Services Inc,JBHT,NASDAQ,Equity,United States,US4456581077,445658107
+Fulton Financial Corporation,FULT,NASDAQ,Equity,United States,US3602711000,360271100
+BGC Partners Inc,BGCP,NASDAQ,Equity,United States,US05541T1016,05541T101
+Cadence Design Systems Inc,CDNS,NASDAQ,Equity,United States,US1273871087,127387108
+JM Smucker Company,SJM,NYSE,Equity,United States,US8326964058,832696405
+Zimmer Biomet Holdings Inc,ZBH,NYSE,Equity,United States,US98956P1021,98956P102
+Clarus Corp,CLAR,NASDAQ,Equity,United States,US18270P1093,18270P109
+Air Products and Chemicals Inc,APD,NYSE,Equity,United States,US0091581068,009158106
+Ciena Corp,CIEN,NYSE,Equity,United States,US1717793095,171779309
+CarMax Inc,KMX,NYSE,Equity,United States,US1431301027,143130102
+Cummins Inc,CMI,NYSE,Equity,United States,US2310211063,231021106
+Lockheed Martin Corporation,LMT,NYSE,Equity,United States,US5398301094,539830109
+Cognex Corporation,CGNX,NASDAQ,Equity,United States,US1924221039,192422103
+Biomarin Pharmaceutical Inc,BMRN,NASDAQ,Equity,United States,US09061G1013,09061G101
+Stryker Corporation,SYK,NYSE,Equity,United States,US8636671013,863667101
+Cytokinetics Inc,CYTK,NASDAQ,Equity,United States,US23282W6057,23282W605
+Dynavax Technologies Corporation,DVAX,NASDAQ,Equity,United States,US2681582019,268158201
+The Hain Celestial Group Inc,HAIN,NASDAQ,Equity,United States,US4052171000,405217100
+Helmerich and Payne Inc,HP,NYSE,Equity,United States,US4234521015,423452101
+Grupo Televisa SAB ADR,TV,NYSE,Equity,United States,US40049J2069,40049J206
+Pinnacle West Capital Corp,PNW,NYSE,Equity,United States,US7234841010,723484101
+Sempra Energy,SRE,NYSE,Equity,United States,US8168511090,816851109
+Rockwell Automation Inc,ROK,NYSE,Equity,United States,US7739031091,773903109
+PPG Industries Inc,PPG,NYSE,Equity,United States,US6935061076,693506107
+Jefferies Financial Group Inc,JEF,NYSE,Equity,United States,US47233W1099,47233W109
+Garmin Ltd,GRMN,NYSE,Equity,United States,CH0114405324,011440532
+Encore Capital Group Inc,ECPG,NASDAQ,Equity,United States,US2925541029,292554102
+Genuine Parts Co,GPC,NYSE,Equity,United States,US3724601055,372460105
+Jabil Circuit Inc,JBL,NYSE,Equity,United States,US4663131039,466313103
+Comerica Inc,CMA,NYSE,Equity,United States,US2003401070,200340107
+RPC Inc,RES,NYSE,Equity,United States,US7496601060,749660106
+H&R Block Inc,HRB,NYSE,Equity,United States,US0936711052,093671105
+Synovus Financial Corp,SNV,NYSE,Equity,United States,US87161C5013,87161C501
+Hasbro Inc,HAS,NASDAQ,Equity,United States,US4180561072,418056107
+Brown Forman,BFb,NYSE,Equity,United States,US1156372096,115637209
+Big Lots Inc,BIG,NYSE,Equity,United States,US0893021032,089302103
+Allscripts Healthcare Solutions Inc,MDRX,NASDAQ,Equity,United States,US01988P1084,01988P108
+WEC Energy Group Inc,WEC,NYSE,Equity,United States,US92939U1060,92939U106
+Hormel Foods Corporation,HRL,NYSE,Equity,United States,US4404521001,440452100
+Sarepta Therapeutics Inc,SRPT,NASDAQ,Equity,United States,US8036071004,803607100
+Equity Residential,EQR,NYSE,Equity,United States,US29476L1070,29476L107
+The Cheesecake Factory,CAKE,NASDAQ,Equity,United States,US1630721017,163072101
+News Corp B,NWS,NASDAQ,Equity,United States,US65249B2088,65249B208
+Lam Research Corp,LRCX,NASDAQ,Equity,United States,US5128071082,512807108
+Ionis Pharmaceuticals Inc,IONS,NASDAQ,Equity,United States,US4622221004,462222100
+Northern Trust Corporation,NTRS,NASDAQ,Equity,United States,US6658591044,665859104
+Patterson Companies Inc,PDCO,NASDAQ,Equity,United States,US7033951036,703395103
+3D Systems Corporation,DDD,NYSE,Equity,United States,US88554D2053,88554D205
+Alkermes Plc,ALKS,NASDAQ,Equity,United States,IE00B56GVS15,00B56GVS1
+Akamai Technologies Inc,AKAM,NASDAQ,Equity,United States,US00971T1016,00971T101
+Cowen Group Inc,COWN,NASDAQ,Equity,United States,US2236226062,223622606
+McKesson Corporation,MCK,NYSE,Equity,United States,US58155Q1031,58155Q103
+Yum! Brands Inc,YUM,NYSE,Equity,United States,US9884981013,988498101
+McCormick & Company Incorporated,MKC,NYSE,Equity,United States,US5797802064,579780206
+Hershey Co,HSY,NYSE,Equity,United States,US4278661081,427866108
+Ryanair Holdings PLC ADR,RYAAY,NASDAQ,Equity,United States,US7835132033,783513203
+Aon PLC,AON,NYSE,Equity,United States,IE00BLP1HW54,00BLP1HW5
+The Travelers Companies Inc,TRV,NYSE,Equity,United States,US89417E1091,89417E109
+Humana Inc,HUM,NYSE,Equity,United States,US4448591028,444859102
+DXC Technology Co,DXC,NYSE,Equity,United States,US23355L1061,23355L106
+Tenet Healthcare Corporation,THC,NYSE,Equity,United States,US88033G4073,88033G407
+Elevance Health Inc,ELV,NYSE,Equity,United States,US0367521038,036752103
+First Solar Inc,FSLR,NASDAQ,Equity,United States,US3364331070,336433107
+Boston Properties Inc,BXP,NYSE,Equity,United States,US1011211018,101121101
+CME Group Inc,CME,NASDAQ,Equity,United States,US12572Q1058,12572Q105
+Moodys Corporation,MCO,NYSE,Equity,United States,US6153691059,615369105
+Middleby Corp,MIDD,NASDAQ,Equity,United States,US5962781010,596278101
+Sony Group Corp,SONY,NYSE,Equity,United States,US8356993076,835699307
+CalAmp Corp,CAMP,NASDAQ,Equity,United States,US1281261099,128126109
+Assertio Therapeutics Inc,ASRT,NASDAQ,Equity,United States,US04546C2052,04546C205
+Cincinnati Financial Corporation,CINF,NASDAQ,Equity,United States,US1720621010,172062101
+eHealth Inc,EHTH,NASDAQ,Equity,United States,US28238P1093,28238P109
+AmerisourceBergen,ABC,NYSE,Equity,United States,US03073E1055,03073E105
+Entergy Corporation,ETR,NYSE,Equity,United States,US29364G1031,29364G103
+DaVita HealthCare Partners Inc,DVA,NYSE,Equity,United States,US23918K1088,23918K108
+Oshkosh Corporation,OSK,NYSE,Equity,United States,US6882392011,688239201
+Nomura Holdings Inc ADR,NMR,NYSE,Equity,United States,US65535H2085,65535H208
+Magna International Inc,MGA,NYSE,Equity,United States,CA5592224011,559222401
+Eastman Chemical Company,EMN,NYSE,Equity,United States,US2774321002,277432100
+BlackRock Inc,BLK,NYSE,Equity,United States,US09247X1019,09247X101
+Performance Shipping Inc,PSHG,NASDAQ,Equity,United States,MHY673051212,Y67305105
+Charter Communications Inc,CHTR,NASDAQ,Equity,United States,US16119P1084,16119P108
+Align Technology Inc,ALGN,NASDAQ,Equity,United States,US0162551016,016255101
+Aehr Test Systems,AEHR,NASDAQ,Equity,United States,US00760J1088,00760J108
+Brunswick Corporation,BC,NYSE,Equity,United States,US1170431092,117043109
+Eversource Energy,ES,NYSE,Equity,United States,US30040W1080,30040W108
+Arrowhead Pharmaceuticals Inc,ARWR,NASDAQ,Equity,United States,US04280A1007,04280A100
+SandRidge Energy Inc,SD,NYSE,Equity,United States,US80007P8692,80007P869
+Ralph Lauren Corp Class A,RL,NYSE,Equity,United States,US7512121010,751212101
+Loews Corp,L,NYSE,Equity,United States,US5404241086,540424108
+Terex Corporation,TEX,NYSE,Equity,United States,US8807791038,880779103
+Newegg Commerce Inc,NEGG,NASDAQ,Equity,United States,VGG6483G1000,G27010100
+Republic Services Inc,RSG,NYSE,Equity,United States,US7607591002,760759100
+Eagle Bulk Shipping Inc,EGLE,NASDAQ,Equity,United States,MHY2187A1507,Y2187A127
+New York Times Company,NYT,NYSE,Equity,United States,US6501111073,650111107
+Quest Diagnostics Incorporated,DGX,NYSE,Equity,United States,US74834L1008,74834L100
+Alnylam Pharmaceuticals Inc,ALNY,NASDAQ,Equity,United States,US02043Q1076,02043Q107
+Leggett & Platt Incorporated,LEG,NYSE,Equity,United States,US5246601075,524660107
+Becton Dickinson and Company,BDX,NYSE,Equity,United States,US0758871091,075887109
+WW Grainger Inc,GWW,NYSE,Equity,United States,US3848021040,384802104
+Textron Inc,TXT,NYSE,Equity,United States,US8832031012,883203101
+General Dynamics Corporation,GD,NYSE,Equity,United States,US3695501086,369550108
+Amkor Technology Inc,AMKR,NASDAQ,Equity,United States,US0316521006,031652100
+Biogen Inc,BIIB,NASDAQ,Equity,United States,US09062X1037,09062X103
+L3Harris Technologies Inc,LHX,NYSE,Equity,United States,US5024311095,502431109
+Travel + Leisure Co,TNL,NYSE,Equity,United States,US8941641024,894164102
+East West Bancorp Inc,EWBC,NASDAQ,Equity,United States,US27579R1041,27579R104
+Sprott Physical Gold and Silver Trust,CEF,NYSE,Equity,United States,CA85208R1010,85208R101
+Tata Motors Limited ADR,TTM,NYSE,Equity,United States,US8765685024,876568502
+Weatherford International PLC,WFRD,NASDAQ,Equity,United States,IE00BLNN3691,NA
+Seelos Therapeutics Inc,SEEL,NASDAQ,Equity,United States,US81577F1093,81577F109
+Whirlpool Corporation,WHR,NYSE,Equity,United States,US9633201069,963320106
+Ameren Corp,AEE,NYSE,Equity,United States,US0236081024,023608102
+Laboratory Corporation of America Holdings,LH,NYSE,Equity,United States,US50540R4092,50540R409
+Cracker Barrel Old Country Store,CBRL,NASDAQ,Equity,United States,US22410J1060,22410J106
+Capitol Federal Financial Inc,CFFN,NASDAQ,Equity,United States,US14057J1016,14057J101
+Ameriprise Financial Inc,AMP,NYSE,Equity,United States,US03076C1062,03076C106
+Codexis Inc,CDXS,NASDAQ,Equity,United States,US1920051067,192005106
+PerkinElmer Inc,PKI,NYSE,Equity,United States,US7140461093,714046109
+Globe Life Inc,GL,NYSE,Equity,United States,US37959E1029,37959E102
+Motorola Solutions Inc,MSI,NYSE,Equity,United States,US6200763075,620076307
+AVEO Pharmaceuticals Inc,AVEO,NASDAQ,Equity,United States,US0535883070,053588307
+Federated Investors Inc B,FHI,NYSE,Equity,United States,US3142111034,314211103
+Harley-Davidson Inc,HOG,NYSE,Equity,United States,US4128221086,412822108
+Titan International Inc,TWI,NYSE,Equity,United States,US88830M1027,88830M102
+Canadian Solar Inc,CSIQ,NASDAQ,Equity,United States,CA1366351098,000136635109
+Robert Half International Inc,RHI,NYSE,Equity,United States,US7703231032,770323103
+Northrop Grumman Corporation,NOC,NYSE,Equity,United States,US6668071029,666807102
+AutoNation Inc,AN,NYSE,Equity,United States,US05329W1027,05329W102
+Cal-Maine Foods Inc,CALM,NASDAQ,Equity,United States,US1280302027,128030202
+Vulcan Materials Company,VMC,NYSE,Equity,United States,US9291601097,929160109
+Destination XL Group Inc,DXLG,NASDAQ,Equity,United States,US25065K1043,25065K104
+Nasdaq Inc,NDAQ,NASDAQ,Equity,United States,US6311031081,631103108
+CVB Financial Corporation,CVBF,NASDAQ,Equity,United States,US1266001056,126600105
+F5 Networks Inc,FFIV,NASDAQ,Equity,United States,US3156161024,315616102
+Hope Bancorp Inc,HOPE,NASDAQ,Equity,United States,US43940T1097,43940T109
+Itron Inc,ITRI,NASDAQ,Equity,United States,US4657411066,465741106
+1-800 FLOWERS.COM Inc,FLWS,NASDAQ,Equity,United States,US68243Q1067,68243Q106
+Sealed Air Corporation,SEE,NYSE,Equity,United States,US81211K1007,81211K100
+Rambus Inc,RMBS,NASDAQ,Equity,United States,US7509171069,750917106
+International Flavors & Fragrances Inc,IFF,NYSE,Equity,United States,US4595061015,459506101
+Roper Technologies Inc,ROP,NYSE,Equity,United States,US7766961061,776696106
+Dover Corporation,DOV,NYSE,Equity,United States,US2600031080,260003108
+Public Storage,PSA,NYSE,Equity,United States,US74460D1090,74460D109
+Celldex Therapeutics Inc,CLDX,NASDAQ,Equity,United States,US15117B2025,15117B202
+DTE Energy Company,DTE,NYSE,Equity,United States,US2333311072,233331107
+Henry Schein Inc,HSIC,NASDAQ,Equity,United States,US8064071025,806407102
+Autoliv Inc,ALV,NYSE,Equity,United States,US0528001094,052800109
+ACI Worldwide Inc,ACIW,NASDAQ,Equity,United States,US0044981019,004498101
+Coherus BioSciences Inc,CHRS,NASDAQ,Equity,United States,US19249H1032,19249H103
+AvalonBay Communities Inc,AVB,NYSE,Equity,United States,US0534841012,053484101
+Equinix Inc,EQIX,NASDAQ,Equity,United States,US29444U7000,29444U700
+Flowserve Corporation,FLS,NYSE,Equity,United States,US34354P1057,34354P105
+Shyft Group Inc,SHYF,NASDAQ,Equity,United States,US8256981031,825698103
+Denbury Resources Inc,DEN,NYSE,Equity,United States,US24790A1016,24790A101
+Acorda Therapeutics Inc,ACOR,NASDAQ,Equity,United States,US00484M6012,00484M601
+Corcept Therapeutics Incorporated,CORT,NASDAQ,Equity,United States,US2183521028,218352102
+Cohu Inc,COHU,NASDAQ,Equity,United States,US1925761066,192576106
+Alphatec Holdings Inc,ATEC,NASDAQ,Equity,United States,US02081G2012,02081G201
+Stericycle Inc,SRCL,NASDAQ,Equity,United States,US8589121081,858912108
+Denny’s Corp,DENN,NASDAQ,Equity,United States,US24869P1049,24869P104
+Cintas Corporation,CTAS,NASDAQ,Equity,United States,US1729081059,172908105
+CBAK Energy Technology Inc,CBAT,NASDAQ,Equity,United States,US14986C1027,14986C102
+FMC Corporation,FMC,NYSE,Equity,United States,US3024913036,302491303
+Arch Resources Inc,ARCH,NYSE,Equity,United States,US03940R1077,03940R107
+Option Care Health Inc,OPCH,NASDAQ,Equity,United States,US68404L2016,68404L201
+Royal Gold Inc,RGLD,NASDAQ,Equity,United States,US7802871084,780287108
+Columbia Banking System Inc,COLB,NASDAQ,Equity,United States,US1972361026,197236102
+VeriSign Inc,VRSN,NASDAQ,Equity,United States,US92343E1029,92343E102
+Cross Country Healthcare Inc,CCRN,NASDAQ,Equity,United States,US2274831047,227483104
+Azenta Inc,AZTA,NASDAQ,Equity,United States,US1143401024,114340102
+Acadia Healthcare Company Inc,ACHC,NASDAQ,Equity,United States,US00404A1097,00404A109
+CONMED Corporation,CNMD,NYSE,Equity,United States,US2074101013,207410101
+Liveramp Holdings Inc,RAMP,NYSE,Equity,United States,US53815P1084,53815P108
+Daktronics Inc,DAKT,NASDAQ,Equity,United States,US2342641097,234264109
+Standard Biotools Inc,LAB,NASDAQ,Equity,United States,US34385P1084,34385P108
+Rogers Communications Inc,RCI,NYSE,Equity,United States,CA7751092007,775109200
+O’Reilly Automotive Inc,ORLY,NASDAQ,Equity,United States,US67103H1077,67103H107
+Amedisys Inc,AMED,NASDAQ,Equity,United States,US0234361089,023436108
+Ashland Global Holdings Inc,ASH,NYSE,Equity,United States,US0441861046,044186104
+First Interstate BancSystem Inc,FIBK,NASDAQ,Equity,United States,US32055Y2019,32055Y201
+Cirrus Logic Inc,CRUS,NASDAQ,Equity,United States,US1727551004,172755100
+Reliance Steel & Aluminum Co,RS,NYSE,Equity,United States,US7595091023,759509102
+Euronet Worldwide Inc,EEFT,NASDAQ,Equity,United States,US2987361092,298736109
+Beacon Roofing Supply Inc,BECN,NASDAQ,Equity,United States,US0736851090,073685109
+Assurant Inc,AIZ,NYSE,Equity,United States,US04621X1081,04621X108
+Equifax Inc,EFX,NYSE,Equity,United States,US2944291051,294429105
+IAC/InterActiveCorp,IAC,NASDAQ,Equity,United States,US44891N2080,44891N208
+Avid Technology Inc,AVID,NASDAQ,Equity,United States,US05367P1003,05367P100
+Waters Corporation,WAT,NYSE,Equity,United States,US9418481035,941848103
+EZCORP Inc,EZPW,NASDAQ,Equity,United States,US3023011063,302301106
+Booking Holdings Inc,BKNG,NASDAQ,Equity,United States,US09857L1089,09857L108
+Republic First Bancorp Inc,FRBK,NASDAQ,Equity,United States,US7604161072,760416107
+Albireo Pharma Inc,ALBO,NASDAQ,Equity,United States,US01345P1066,01345P106
+Ryder System Inc,R,NYSE,Equity,United States,US7835491082,783549108
+Enerpac Tool Group Corp,EPAC,NYSE,Equity,United States,US2927651040,292765104
+Axcelis Technologies Inc,ACLS,NASDAQ,Equity,United States,US0545402085,54540208
+NuStar Energy LP,NS,NYSE,Equity,United States,US67058H1023,67058H102
+EMCORE Corporation,EMKR,NASDAQ,Equity,United States,US2908462037,290846203
+Conns Inc,CONN,NASDAQ,Equity,United States,US2082421072,208242107
+Jacobs Engineering Group Inc,J,NYSE,Equity,United States,US4698141078,469814107
+Commerce Bancshares Inc,CBSH,NASDAQ,Equity,United States,US2005251036,200525103
+Consolidated Communications,CNSL,NASDAQ,Equity,United States,US2090341072,209034107
+ANSYS Inc,ANSS,NASDAQ,Equity,United States,US03662Q1058,03662Q105
+Ebix Inc,EBIX,NASDAQ,Equity,United States,US2787152063,278715206
+Chipotle Mexican Grill Inc,CMG,NYSE,Equity,United States,US1696561059,169656105
+Alpha and Omega Semiconductor Ltd,AOSL,NASDAQ,Equity,United States,BMG6331P1041,G6331P104
+Big 5 Sporting Goods Corporation,BGFV,NASDAQ,Equity,United States,US08915P1012,08915P101
+Cutera Inc,CUTR,NASDAQ,Equity,United States,US2321091082,232109108
+Accuray Incorporated,ARAY,NASDAQ,Equity,United States,US0043971052,004397105
+ITT Inc,ITT,NYSE,Equity,United States,US45073V1089,45073V108
+Acacia Research Corporation,ACTG,NASDAQ,Equity,United States,US0038813079,003881307
+Columbia Sportswear Company,COLM,NASDAQ,Equity,United States,US1985161066,198516106
+Green Brick Partners Inc,GRBK,NYSE,Equity,United States,US3927091013,392709101
+Teradata Corp,TDC,NYSE,Equity,United States,US88076W1036,88076W103
+ManTech International Corporation,MANT,NASDAQ,Equity,United States,US5645631046,564563104
+Ceragon Networks Ltd,CRNT,NASDAQ,Equity,United States,IL0010851660,M22013102
+Lamar Advertising Company,LAMR,NASDAQ,Equity,United States,US5128161099,512816109
+Berkshire Hills Bancorp Inc,BHLB,NYSE,Equity,United States,US0846801076,084680107
+Axos Financial Inc,AX,NYSE,Equity,United States,US05465C1009,05465C100
+Perdoceo Education Corp,PRDO,NASDAQ,Equity,United States,US71363P1066,71363P106
+IPG Photonics Corporation,IPGP,NASDAQ,Equity,United States,US44980X1090,44980X109
+First Merchants Corporation,FRME,NASDAQ,Equity,United States,US3208171096,320817109
+Adtalem Global Education Inc,ATGE,NYSE,Equity,United States,US00737L1035,00737L103
+Citi Trends Inc,CTRN,NASDAQ,Equity,United States,US17306X1028,17306X102
+ASGN Inc,ASGN,NYSE,Equity,United States,US00191U1025,00191U102
+First Financial Bankshares Inc,FFIN,NASDAQ,Equity,United States,US32020R1095,32020R109
+Dr. Reddy’s Laboratories Ltd ADR,RDY,NYSE,Equity,United States,US2561352038,256135203
+Cardiovascular Systems Inc,CSII,NASDAQ,Equity,United States,US1416191062,141619106
+StealthGas Inc,GASS,NASDAQ,Equity,United States,MHY816691064,Y81669106
+Axon Enterprise Inc,AXON,NASDAQ,Equity,United States,US05464C1018,05464C101
+Ameris Bancorp,ABCB,NASDAQ,Equity,United States,US03076K1088,03076K108
+ArcBest Corp,ARCB,NASDAQ,Equity,United States,US03937C1053,03937C105
+Diodes Incorporated,DIOD,NASDAQ,Equity,United States,US2545431015,254543101
+FirstCash Inc,FCFS,NASDAQ,Equity,United States,US33768G1076,33768G107
+Descartes Systems Group Inc,DSGX,NASDAQ,Equity,United States,CA2499061083,249906108
+Ribbon Communications Inc,RBBN,NASDAQ,Equity,United States,US7625441040,762544104
+Stewart Information Services Corp,STC,NYSE,Equity,United States,US8603721015,860372101
+Commercial Vehicle Group Inc,CVGI,NASDAQ,Equity,United States,US2026081057,202608105
+Vericel Corp Ord,VCEL,NASDAQ,Equity,United States,US92346J1088,92346J108
+Casella Waste Systems Inc,CWST,NASDAQ,Equity,United States,US1474481041,147448104
+Brookline Bancorp Inc,BRKL,NASDAQ,Equity,United States,US11373M1071,11373M107
+M/I Homes Inc,MHO,NYSE,Equity,United States,US55305B1017,55305B101
+Cyren Ltd,CYRN,NASDAQ,Equity,United States,IL0010832371,M25596202
+Unisys Corporation,UIS,NYSE,Equity,United States,US9092143067,909214306
+Central Garden & Pet Company A,CENTA,NASDAQ,Equity,United States,US1535272058,153527205
+Meta Financial Group Inc,CASH,NASDAQ,Equity,United States,US59100U1088,59100U108
+AtriCure Inc,ATRC,NASDAQ,Equity,United States,US04963C2098,04963C209
+Cadiz Inc,CDZI,NASDAQ,Equity,United States,US1275372076,127537207
+First Financial Bancorp,FFBC,NASDAQ,Equity,United States,US3202091092,320209109
+Allied Healthcare Products Inc,AHPI,NASDAQ,Equity,United States,US0192222075,019222207
+Nabors Industries Ltd,NBR,NYSE,Equity,United States,BMG6359F1370,G6359F103
+Banc of California Inc,BANC,NYSE,Equity,United States,US05990K1060,05990K106
+Broadway Financial Corporation,BYFC,NASDAQ,Equity,United States,US1114441058,111444105
+ExlService Holdings Inc,EXLS,NASDAQ,Equity,United States,US3020811044,302081104
+ABIOMED Inc,ABMD,NASDAQ,Equity,United States,US0036541003,003654100
+Canon Inc ADR,CAJ,NYSE,Equity,United States,US1380063099,138006309
+BJs Restaurants Inc,BJRI,NASDAQ,Equity,United States,US09180C1062,09180C106
+Atlas Air Worldwide Holdings,AAWW,NASDAQ,Equity,United States,US0491642056,049164205
+Cogent Communications Group Inc,CCOI,NASDAQ,Equity,United States,US19239V3024,19239V302
+DRDGOLD Ltd ADR,DRD,NYSE,Equity,United States,US26152H3012,26152H301
+Argo Group International Holdings Ltd,ARGO,NYSE,Equity,United States,BMG0464B1072,G0464B107
+Dillards Inc,DDS,NYSE,Equity,United States,US2540671011,254067101
+Digital Ally Inc,DGLY,NASDAQ,Equity,United States,US25382P2083,25382P208
+Nippon Telegraph and Telephone Corp ADR,NTTYY,OTC Markets,Equity,United States,US6546241059,654624105
+Nexus Energy Services Inc,IBGR,OTC Markets,Equity,United States,US65341F1075,65341F107
+Bridgeline Digital Inc,BLIN,NASDAQ,Equity,United States,US10807Q7007,10807Q700
+Caseys General Stores Inc,CASY,NASDAQ,Equity,United States,US1475281036,147528103
+Snap-On Inc,SNA,NYSE,Equity,United States,US8330341012,833034101
+Digi International Inc,DGII,NASDAQ,Equity,United States,US2537981027,253798102
+ODP Corp,ODP,NASDAQ,Equity,United States,US88337F1057,88337F105
+Fortress Biotech Inc,FBIO,NASDAQ,Equity,United States,US34960Q1094,34960Q109
+Blackbaud Inc,BLKB,NASDAQ,Equity,United States,US09227Q1004,09227Q100
+The Andersons Inc,ANDE,NASDAQ,Equity,United States,US0341641035,034164103
+Covenant Logistics Group Inc,CVLG,NASDAQ,Equity,United States,US22284P1057,22284P105
+FormFactor Inc,FORM,NASDAQ,Equity,United States,US3463751087,346375108
+Coca-Cola Femsa SAB de CV ADR,KOF,NYSE,Equity,United States,US1912411089,191241108
+Gentherm Inc,THRM,NASDAQ,Equity,United States,US37253A1034,37253A103
+The Ensign Group Inc,ENSG,NASDAQ,Equity,United States,US29358P1012,29358P101
+AXT Inc,AXTI,NASDAQ,Equity,United States,US00246W1036,00246W103
+Churchill Downs Incorporated,CHDN,NASDAQ,Equity,United States,US1714841087,171484108
+BOK Financial Corporation,BOKF,NASDAQ,Equity,United States,US05561Q2012,05561Q201
+Toyota Motor Corporation ADR,TM,NYSE,Equity,United States,US8923313071,892331307
+Cathay General Bancorp,CATY,NASDAQ,Equity,United States,US1491501045,149150104
+Comtech Telecommunications Corp,CMTL,NASDAQ,Equity,United States,US2058262096,205826209
+Sohu.Com Inc,SOHU,NASDAQ,Equity,United States,US83410S1087,83410S108
+Glacier Bancorp Inc,GBCI,NYSE,Equity,United States,US37637Q1058,37637Q105
+AeroVironment Inc,AVAV,NASDAQ,Equity,United States,US0080731088,008073108
+ENGlobal Corporation,ENG,NASDAQ,Equity,United States,US2933061069,293306106
+Clearfield Inc,CLFD,NASDAQ,Equity,United States,US18482P1030,18482P103
+BancFirst Corporation,BANF,NASDAQ,Equity,United States,US05945F1030,05945F103
+American Software Inc,AMSWA,NASDAQ,Equity,United States,US0296831094,029683109
+Inotiv Inc,NOTV,NASDAQ,Equity,United States,US45783Q1004,45783Q100
+Astrotech Corp,ASTC,NASDAQ,Equity,United States,US0464842006,046484200
+Gaia Inc,GAIA,NASDAQ,Equity,United States,US36269P1049,36269P104
+Allegiant Travel Company,ALGT,NASDAQ,Equity,United States,US01748X1028,01748X102
+Capital Southwest Corporation,CSWC,NASDAQ,Equity,United States,US1405011073,140501107
+Apogee Enterprises Inc,APOG,NASDAQ,Equity,United States,US0375981091,037598109
+American Superconductor Corporation,AMSC,NASDAQ,Equity,United States,US0301112076,030111207
+Exponent Inc,EXPO,NASDAQ,Equity,United States,US30214U1025,30214U102
+AutoZone Inc,AZO,NYSE,Equity,United States,US0533321024,053332102
+Polarityte Inc,PTE,NASDAQ,Equity,United States,US7310942070,731094207
+Radware Ltd,RDWR,NASDAQ,Equity,United States,IL0010834765,001083476
+Manitowoc Company Inc,MTW,NYSE,Equity,United States,US5635714059,563571405
+Overseas Shipholding Group,OSG,NYSE,Equity,United States,US69036R8631,69036R863
+Banner Corporation,BANR,NASDAQ,Equity,United States,US06652V2088,06652V208
+Makita Corp,MKTAY,OTC Markets,Equity,United States,US5608773009,560877300
+MBIA Inc,MBI,NYSE,Equity,United States,US55262C1009,55262C100
+Digimarc Corporation,DMRC,NASDAQ,Equity,United States,US25381B1017,25381B101
+Hovnanian Enterprises Inc,HOV,NYSE,Equity,United States,US4424874018,442487401
+BankFinancial Corporation,BFIN,NASDAQ,Equity,United States,US06643P1049,06643P104
+Energy Recovery Inc,ERII,NASDAQ,Equity,United States,US29270J1007,29270J100
+Capital Product Partners LP,CPLP,NASDAQ,Equity,United States,MHY110822068,Y11082206
+Dorchester Minerals LP,DMLP,NASDAQ,Equity,United States,US25820R1059,25820R105
+E. W. Scripps Co Class A,SSP,NASDAQ,Equity,United States,US8110544025,811054402
+Charles & Colvard Ltd,CTHR,NASDAQ,Equity,United States,US1597651066,159765106
+AAON Inc,AAON,NASDAQ,Equity,United States,US0003602069,000360206
+Cresud SACIF y A,CRESY,NASDAQ,Equity,United States,US2264061068,226406106
+Celsion Corp,CLSN,NASDAQ,Equity,United States,US15117N6022,15117N602
+Advanced Energy Industries Inc,AEIS,NASDAQ,Equity,United States,US0079731008,007973100
+BioLineRx Ltd,BLRX,NASDAQ,Equity,United States,US09071M2052,09071M205
+Autoweb Inc,AUTO,NASDAQ,Equity,United States,US05335B1008,05335B100
+CSG Systems International Inc,CSGS,NASDAQ,Equity,United States,US1263491094,126349109
+FARO Technologies Inc,FARO,NASDAQ,Equity,United States,US3116421021,311642102
+Natus Medical Incorporated,NTUS,NASDAQ,Equity,United States,US6390501038,639050103
+National Beverage Corp,FIZZ,NASDAQ,Equity,United States,US6350171061,635017106
+Bassett Furniture Industries,BSET,NASDAQ,Equity,United States,US0702031040,070203104
+aTyr Pharma Inc,LIFE,NASDAQ,Equity,United States,US0021202025,002120202
+Donegal Group A Inc,DGICA,NASDAQ,Equity,United States,US2577012014,257701201
+DXP Enterprises Inc,DXPE,NASDAQ,Equity,United States,US2333774071,233377407
+Balchem Corporation,BCPC,NASDAQ,Equity,United States,US0576652004,057665200
+Dmc Global Inc,BOOM,NASDAQ,Equity,United States,US23291C1036,23291C103
+Camtek Ltd,CAMT,NASDAQ,Equity,United States,IL0010952641,M20791105
+Eagle Bancorp Inc,EGBN,NASDAQ,Equity,United States,US2689481065,268948106
+Century Casinos Inc,CNTY,NASDAQ,Equity,United States,US1564921005,156492100
+First Bancorp,FBNC,NASDAQ,Equity,United States,US3189101062,318910106
+Agilysys Inc,AGYS,NASDAQ,Equity,United States,US00847J1051,00847J105
+Cohen & Steers Inc,CNS,NYSE,Equity,United States,US19247A1007,19247A100
+Dorman Products Inc,DORM,NASDAQ,Equity,United States,US2582781009,258278100
+Altra Holdings Inc,AIMC,NASDAQ,Equity,United States,US02208R1068,02208R106
+Genetic Technologies Ltd,GENE,NASDAQ,Equity,United States,US37185R3075,37185R307
+First Busey Corp,BUSE,NASDAQ,Equity,United States,US3193832041,319383204
+Premier Financial Corp,PFC,NASDAQ,Equity,United States,US74052F1084,74052F108
+Taoping Inc,TAOP,NASDAQ,Equity,United States,VGG8675V1195,G8675V119
+Aviat Networks Inc,AVNW,NASDAQ,Equity,United States,US05366Y2019,05366Y201
+Colliers International Group Inc Bats,CIGI,NASDAQ,Equity,United States,CA1946931070,194693107
+Americas Car-Mart Inc,CRMT,NASDAQ,Equity,United States,US03062T1051,03062T105
+Colony Bankcorp Inc,CBAN,NASDAQ,Equity,United States,US19623P1012,19623P101
+Franklin Electric Co Inc,FELE,NASDAQ,Equity,United States,US3535141028,353514102
+Dime Community Bancshares Inc,DCOM,NASDAQ,Equity,United States,US25432X1028,25432X102
+Cass Information Systems Inc,CASS,NASDAQ,Equity,United States,US14808P1093,14808P109
+Flushing Financial Corporation,FFIC,NASDAQ,Equity,United States,US3438731057,343873105
+Star Equity Holdings Inc,STRR,NASDAQ,Equity,United States,US85513Q1031,85513Q103
+CytRx Corp,CYTR,OTC Markets,Equity,United States,US2328286081,232828608
+The First Bancshares Inc,FBMS,NASDAQ,Equity,United States,US3189161033,318916103
+Farmers National Banc Corp,FMNB,NASDAQ,Equity,United States,US3096271073,309627107
+Consumer Portfolio Services Inc,CPSS,NASDAQ,Equity,United States,US2105021008,210502100
+Forward Air Corporation,FWRD,NASDAQ,Equity,United States,US3498531017,349853101
+ARCA Biopharma Inc,ABIO,NASDAQ,Equity,United States,US00211Y5069,00211Y506
+Pingtan Marine Enterprise Ltd,PME,NASDAQ,Equity,United States,KYG7114V1023,G2114K115
+Alico Inc,ALCO,NASDAQ,Equity,United States,US0162301040,016230104
+Piper Sandler Companies,PIPR,NYSE,Equity,United States,US7240781002,724078100
+Computer Programs and Systems Inc,CPSI,NASDAQ,Equity,United States,US2053061030,205306103
+Broadwind Energy Inc,BWEN,NASDAQ,Equity,United States,US11161T2078,11161T207
+Advanced Emissions Solutions Inc,ADES,NASDAQ,Equity,United States,US00770C1018,00770C101
+Astec Industries Inc,ASTE,NASDAQ,Equity,United States,US0462241011,046224101
+Enterprise Financial Services,EFSC,NASDAQ,Equity,United States,US2937121059,293712105
+BCB Bancorp Inc,BCBP,NASDAQ,Equity,United States,US0552981039,055298103
+Calavo Growers Inc,CVGW,NASDAQ,Equity,United States,US1282461052,128246105
+Kyocera Corporation ADR,KYOCY,OTC Markets,Equity,United States,US5015562037,501556203
+Sellas Life Sciences Group Inc,SLS,NASDAQ,Equity,United States,US81642T2096,81642T209
+Fuel Tech Inc,FTEK,NASDAQ,Equity,United States,US3595231073,359523107
+Bank of Marin Bancorp,BMRC,NASDAQ,Equity,United States,US0634251021,063425102
+QuickLogic Corporation,QUIK,NASDAQ,Equity,United States,US74837P4054,74837P405
+Orix Corp Ads,IX,NYSE,Equity,United States,US6863301015,686330101
+Carver Bancorp Inc,CARV,NASDAQ,Equity,United States,US1468756044,146875604
+Alpine Immune Sciences Inc,ALPN,NASDAQ,Equity,United States,US02083G1004,02083G100
+Addus HomeCare Corporation,ADUS,NASDAQ,Equity,United States,US0067391062,006739106
+Bel Fuse B Inc,BELFB,NASDAQ,Equity,United States,US0773473006,077347300
+US Gold Corp,USAU,NASDAQ,Equity,United States,US90291C2017,90291C201
+Educational Development Corporation,EDUC,NASDAQ,Equity,United States,US2814791057,281479105
+EDAP TMS SA,EDAP,NASDAQ,Equity,United States,US2683111072,268311107
+Biocept Inc,BIOC,NASDAQ,Equity,United States,US09072V5012,09072V501
+American Woodmark Corporation,AMWD,NASDAQ,Equity,United States,US0305061097,030506109
+CEVA Inc,CEVA,NASDAQ,Equity,United States,US1572101053,157210105
+Lindsay Corporation,LNN,NYSE,Equity,United States,US5355551061,535555106
+AudioCodes Ltd,AUDC,NASDAQ,Equity,United States,IL0010829658,M15342104
+First Business Financial Services,FBIZ,NASDAQ,Equity,United States,US3193901002,319390100
+Enstar Group Limited,ESGR,NASDAQ,Equity,United States,BMG3075P1014,G3075P101
+Credit Acceptance Corporation,CACC,NASDAQ,Equity,United States,US2253101016,225310101
+Asure Software Inc,ASUR,NASDAQ,Equity,United States,US04649U1025,04649U102
+City Holding Company,CHCO,NASDAQ,Equity,United States,US1778351056,177835105
+Greene County Bancorp Inc,GCBC,NASDAQ,Equity,United States,US3943571071,394357107
+AMERISAFE Inc,AMSF,NASDAQ,Equity,United States,US03071H1005,03071H100
+Amtech Systems Inc,ASYS,NASDAQ,Equity,United States,US0323325045,032332504
+Sears Holdings Corp,SHLDQ,OTC Markets,Equity,United States,US8123501061,812350106
+Burcon NutraScience Corporation,BRCN,NASDAQ,Equity,United States,CA1208311029,120831102
+CECO Environmental Corp,CECE,NASDAQ,Equity,United States,US1251411013,125141101
+Financial Institutions Inc,FISI,NASDAQ,Equity,United States,US3175854047,317585404
+Erie Indemnity Company,ERIE,NASDAQ,Equity,United States,US29530P1021,29530P102
+American Public Education Inc,APEI,NASDAQ,Equity,United States,US02913V1035,02913V103
+Grupo Aeroportuario del Sureste SAB de CV ADR,ASR,NYSE,Equity,United States,US40051E2028,40051E202
+Barrett Business Services Inc,BBSI,NASDAQ,Equity,United States,US0684631080,068463108
+Columbus McKinnon Corporation,CMCO,NASDAQ,Equity,United States,US1993331057,199333105
+Consolidated Water Co Ltd,CWCO,NASDAQ,Equity,United States,KYG237731073,G23773107
+First Citizens BancShares Inc,FCNCA,NASDAQ,Equity,United States,US31946M1036,31946M103
+Yunhong CTI Ltd,CTIB,NASDAQ,Equity,United States,US98873Q1004,98873Q100
+Canterbury Park Holding Corporation,CPHC,NASDAQ,Equity,United States,US13811E1010,13811E101
+Community Trust Bancorp Inc,CTBI,NASDAQ,Equity,United States,US2041491083,204149108
+Cumberland Pharmaceuticals Inc,CPIX,NASDAQ,Equity,United States,US2307701092,230770109
+eGain Corporation,EGAN,NASDAQ,Equity,United States,US28225C8064,28225C806
+America First Tax Exempt Investors,ATAX,NASDAQ,Equity,United States,US02364V2060,02364V206
+Motorcar Parts of America Inc,MPAA,NASDAQ,Equity,United States,US6200711009,620071100
+Allot Communications Ltd,ALLT,NASDAQ,Equity,United States,IL0010996549,M0854Q105
+Cavco Industries Inc,CVCO,NASDAQ,Equity,United States,US1495681074,149568107
+First of Long Island Corp,FLIC,NASDAQ,Equity,United States,US3207341062,320734106
+Anika Therapeutics Inc,ANIK,NASDAQ,Equity,United States,US0352551081,035255108
+LB Foster Company,FSTR,NASDAQ,Equity,United States,US3500601097,350060109
+Astronics Corporation,ATRO,NASDAQ,Equity,United States,US0464331083,046433108
+Central Garden & Pet Company,CENT,NASDAQ,Equity,United States,US1535271068,153527106
+CNB Financial Corporation,CCNE,NASDAQ,Equity,United States,US1261281075,126128107
+ClearOne Inc,CLRO,NASDAQ,Equity,United States,US18506U1043,18506U104
+German American Bancorp Inc,GABC,NASDAQ,Equity,United States,US3738651047,373865104
+ACNB Corporation,ACNB,NASDAQ,Equity,United States,US0008681092,000868109
+Forrester Research Inc,FORR,NASDAQ,Equity,United States,US3465631097,346563109
+Coca-Cola Bottling Co Consolidated,COKE,NASDAQ,Equity,United States,US1910981026,191098102
+Arts-Way Manufacturing Co Inc,ARTW,NASDAQ,Equity,United States,US0431681032,043168103
+Janone Inc,JAN,NASDAQ,Equity,United States,US47089W1045,47089W104
+Engine Media Holdings Inc,GAME,NASDAQ,Equity,United States,CA29287W1023,29287W102
+Calumet Specialty Products Partners,CLMT,NASDAQ,Equity,United States,US1314761032,131476103
+BIOLASE Inc,BIOL,NASDAQ,Equity,United States,US0909114052,090911405
+Euro Tech Holdings Company Ltd,CLWT,NASDAQ,Equity,United States,VGG320301275,NA
+ASM International NV ADR,ASMIY,OTC Markets,Equity,United States,USN070451026,N07045102
+ESSA Bancorp Inc,ESSA,NASDAQ,Equity,United States,US29667D1046,29667D104
+Scully Royalty Ltd,SRL,NYSE,Equity,United States,KYG7T96K1077,G7T96K107
+CorVel Corp,CRVL,NASDAQ,Equity,United States,US2210061097,221006109
+Civista Bancshares Inc,CIVB,NASDAQ,Equity,United States,US1788671071,178867107
+Abraxas Petroleum Corporation,AXAS,OTC Markets,Equity,United States,US0038303048,003830304
+Atlanticus Holdings Corporation,ATLC,NASDAQ,Equity,United States,US04914Y1029,04914Y102
+Capital City Bank Group,CCBG,NASDAQ,Equity,United States,US1396741050,139674105
+Capstone Green Energy Corp,CGRN,NASDAQ,Equity,United States,US14067D5086,14067D508
+Cyanotech Corporation,CYAN,NASDAQ,Equity,United States,US2324373016,232437301
+Eagle Bancorp Montana Inc,EBMT,NASDAQ,Equity,United States,US26942G1004,26942G100
+Camden National Corporation,CAC,NASDAQ,Equity,United States,US1330341082,133034108
+Enzon Pharmaceuticals Inc,ENZN,OTC Markets,Equity,United States,US2939041081,293904108
+CRA International Inc,CRAI,NASDAQ,Equity,United States,US12618T1051,12618T105
+Fuwei Films Holdings Co Ltd,FFHL,NASDAQ,Equity,United States,KYG3704F1101,G3704F102
+Central Valley Community Bancorp,CVCY,NASDAQ,Equity,United States,US1556851004,155685100
+Plus Therapeutics Inc,PSTV,NASDAQ,Equity,United States,US72941H4002,72941H400
+Euroseas Ltd,ESEA,NASDAQ,Equity,United States,MHY235921357,Y23592135
+Alimera Sciences Inc,ALIM,NASDAQ,Equity,United States,US0162592028,016259202
+Farmer Bros. Co,FARM,NASDAQ,Equity,United States,US3076751086,307675108
+Dynatronics Corporation,DYNT,NASDAQ,Equity,United States,US2681574016,268157401
+China Jo-Jo Drugstores Inc,CJJD,NASDAQ,Equity,United States,KYG2124G1120,16949A206
+Forward Industries Inc,FORD,NASDAQ,Equity,United States,US3498623004,349862300
+ATN International Inc,ATNI,NASDAQ,Equity,United States,US00215F1075,00215F107
+First Community Bancshares Inc,FCBC,NASDAQ,Equity,United States,US31983A1034,31983A103
+Sierra Bancorp,BSRR,NASDAQ,Equity,United States,US82620P1021,82620P102
+Deswell Industries Inc,DSWL,NASDAQ,Equity,United States,VG2506391011,250639101
+Airnet Technology Inc,ANTE,NASDAQ,Equity,United States,US00941Q1040,00941Q104
+Regis Resources Ltd,RGRNF,OTC Markets,Equity,United States,AU000000RRL8,NA
+Allied Motion Technologies Inc,AMOT,NASDAQ,Equity,United States,US0193301092,019330109
+China Automotive Systems Inc,CAAS,NASDAQ,Equity,United States,US16936R1059,16936R105
+China Fund Inc,CHN,NYSE,Equity,United States,US1693731077,169373107
+Industrias Bachoco SAB de CV ADR,IBA,NYSE,Equity,United States,US4564631087,456463108
+Davis Select US Equity,DUSA,NYSE,Equity,United States,US23908L2079,23908L207
+Citizens & Northern Corp,CZNC,NASDAQ,Equity,United States,US1729221069,172922106
+First Community Corporation,FCCO,NASDAQ,Equity,United States,US3198351047,319835104
+Blueknight Energy Partners LP LLC,BKEP,NASDAQ,Equity,United States,US09625U1097,09625U109
+First Bancorp Inc,FNLC,NASDAQ,Equity,United States,US31866P1021,31866P102
+Gulf Island Fabrication Inc,GIFI,NASDAQ,Equity,United States,US4023071024,402307102
+Emmis Communications Corp,EMMS,OTC Markets,Equity,United States,US2915254005,291525400
+Data I/O Corporation,DAIO,NASDAQ,Equity,United States,US2376901029,237690102
+Fanhua Inc,FANH,NASDAQ,Equity,United States,US30712A1034,30712A103
+ATA Inc,AACG,NASDAQ,Equity,United States,US00211V1061,00211V106
+Graham Holdings Co,GHC,NYSE,Equity,United States,US3846371041,384637104
+Arrow Financial Corporation,AROW,NASDAQ,Equity,United States,US0427441029,042744102
+Ames National Corporation,ATLO,NASDAQ,Equity,United States,US0310011004,031001100
+Eastern Co,EML,NASDAQ,Equity,United States,US2763171046,276317104
+Computer Task Group Incorporated,CTG,NASDAQ,Equity,United States,US2054771025,205477102
+China Natural Resources Inc,CHNR,NASDAQ,Equity,United States,VGG2110U1093,G2114K107
+AstroNova Inc,ALOT,NASDAQ,Equity,United States,US04638F1084,04638F108
+Atlantic American Corporation,AAME,NASDAQ,Equity,United States,US0482091008,048209100
+Smart Powerr Corp,CREG,NASDAQ,Equity,United States,US1689133098,168913309
+Flexsteel Industries Inc,FLXS,NASDAQ,Equity,United States,US3393821034,339382103
+Auburn National Bancorporation Inc,AUBN,NASDAQ,Equity,United States,US0504731078,050473107
+BSQUARE Corporation,BSQR,NASDAQ,Equity,United States,US11776U3005,11776U300
+Engie SA,ENGQF,OTC Markets,Equity,United States,FR0010208488,NA
+The Dixie Group Inc,DXYN,NASDAQ,Equity,United States,US2555191004,255519100
+Air T Inc,AIRT,NASDAQ,Equity,United States,US0092071010,009207101
+American National Bankshares Inc,AMNB,NASDAQ,Equity,United States,US0277451086,027745108
+Comstock Holding Companies Inc,CHCI,NASDAQ,Equity,United States,US2056842022,205684202
+Alithya Group inc Class A,ALYA,NASDAQ,Equity,United States,CA01643B1067,01643B106
+Escalade Incorporated,ESCA,NASDAQ,Equity,United States,US2960561049,296056104
+Mitsui & Company Ltd,MITSY,OTC Markets,Equity,United States,US6068272029,606827202
+America Movil SAB de CV ADR Class A,AMOV,NYSE,Equity,United States,US02364W2044,02364W204
+BBQ Holdings Inc,BBQ,NASDAQ,Equity,United States,US05551A1097,05551A109
+First United Corporation,FUNC,NASDAQ,Equity,United States,US33741H1077,33741H107
+ADDvantage Technologies Group Inc,AEY,NASDAQ,Equity,United States,US0067433062,006743306
+CVD Equipment Corporation,CVV,NASDAQ,Equity,United States,US1266011030,126601103
+Beasley Broadcast Group Inc,BBGI,NASDAQ,Equity,United States,US0740141017,074014101
+Aware Inc,AWRE,NASDAQ,Equity,United States,US05453N1000,05453N100
+Fonar Corporation,FONR,NASDAQ,Equity,United States,US3444374058,344437405
+BOS Better Online Solutions,BOSC,NASDAQ,Equity,United States,IL0010828171,M20115107
+UTStarcom Holdings Corp,UTSI,NASDAQ,Equity,United States,KYG9310A1224,G9310A114
+Bank of South Carolina Corp,BKSC,NASDAQ,Equity,United States,US0650661020,065066102
+Antelope Enterprise Holdings Ltd,AEHL,NASDAQ,Equity,United States,VGG041JN1065,NA
+First Capital Inc,FCAP,NASDAQ,Equity,United States,US31942S1042,31942S104
+First Financial Northwest Inc,FFNW,NASDAQ,Equity,United States,US32022K1025,32022K102
+Crown Crafts Inc,CRWS,NASDAQ,Equity,United States,US2283091005,228309100
+Delcath Systems Inc,DCTH,NASDAQ,Equity,United States,US24661P8077,24661P807
+Acura Pharmaceuticals Inc,ACUR,OTC Markets,Equity,United States,US00509L8028,00509L802
+AmeriServ Financial Inc,ASRV,NASDAQ,Equity,United States,US03074A1025,03074A102
+ASML Holding NV,ASMLF,OTC Markets,Equity,United States,NL0010273215,NA
+C&F Financial Corporation,CFFI,NASDAQ,Equity,United States,US12466Q1040,12466Q104
+Eltek Ltd,ELTK,NASDAQ,Equity,United States,IL0010828411,M40184109
+Codorus Valley Bancorp Inc,CVLY,NASDAQ,Equity,United States,US1920251048,192025104
+Electro-Sensors Inc,ELSE,NASDAQ,Equity,United States,US2852331022,285233102
+CSP Inc,CSPI,NASDAQ,Equity,United States,US1263891053,126389105
+Dawson Geophysical Company,DWSN,NASDAQ,Equity,United States,US2393601008,239360100
+Gencor Industries Inc,GENC,NASDAQ,Equity,United States,US3686781085,368678108
+Acorn Energy Inc,ACFN,OTC Markets,Equity,United States,US0048481073,004848107
+Bel Fuse A Inc,BELFA,NASDAQ,Equity,United States,US0773472016,077347201
+Enterprise Bancorp Inc,EBTC,NASDAQ,Equity,United States,US2936681095,293668109
+bebe stores inc,BEBE,OTC Markets,Equity,United States,US0755712082,075571208
+Asia Pacific Wire & Cable Corp Ltd,APWC,NASDAQ,Equity,United States,BMG0535E1066,G0535E106
+Franklin Financial Services Corp,FRAF,NASDAQ,Equity,United States,US3535251082,353525108
+Frequency Electronics Inc,FEIM,NASDAQ,Equity,United States,US3580101067,358010106
+Donegal Group B Inc,DGICB,NASDAQ,Equity,United States,US2577013004,257701300
+ARC Group Worldwide Inc,ARCW,OTC Markets,Equity,United States,US00213H1059,00213H105
+Diamond Hill Investment Group Inc,DHIL,NASDAQ,Equity,United States,US25264R2076,25264R207
+Community West Bancshares,CWBC,NASDAQ,Equity,United States,US2041571017,204157101
+Gruma SAB de CV,GPAGF,OTC Markets,Equity,United States,MXP4948K1056,NA
+Daily Journal Corp,DJCO,NASDAQ,Equity,United States,US2339121046,233912104
+Bridgford Foods Corporation,BRID,NASDAQ,Equity,United States,US1087631032,108763103
+ATRION Corporation,ATRI,NASDAQ,Equity,United States,US0499041053,049904105
+Ark Restaurants Corp,ARKR,NASDAQ,Equity,United States,US0407121013,040712101
+Citizens Holding Company,CIZN,NASDAQ,Equity,United States,US1747151025,174715102
+First Savings Financial Group Inc,FSFG,NASDAQ,Equity,United States,US33621E1091,33621E109
+McKesson Europe AG,CAKFF,OTC Markets,Equity,United States,DE000CLS1001,NA
+Puma SE,PMMAF,OTC Markets,Equity,United States,DE0006969603,000696960
+Apollo Bancorp Inc,APLO,OTC Markets,Equity,United States,US03759W1062,03759W106
+CDTi Advanced Materials Inc,CDTI,OTC Markets,Equity,United States,US12514V2043,12514V204
+El Paso Energy Capital Trust I,EP_pc,NYSE,Equity,United States,US2836782092,283678209
+Oi SA ADR Pref,OIBRQ,OTC Markets,Equity,United States,US6708514012,670851401
+Laird PLC,LARRF,OTC Markets,Equity,United States,GB00B1VNST91,NA
+China Green Agriculture Inc,CGA,NYSE,Equity,United States,US16943W2044,16943W204
+CMC Materials Inc,CCMP,NASDAQ,Equity,United States,US12571T1007,12571T100
+World Poker Fund Holdings Inc,WPFH,OTC Markets,Equity,United States,US98160D1019,98160D101
+Polymetal International PLC,POYYF,OTC Markets,Equity,United States,JE00B6T5S470,NA
+Internet Initiative Japan Inc ADR,IIJIY,OTC Markets,Equity,United States,US46059T1097,46059T109
+Merriman Holdings Inc,MERR,OTC Markets,Equity,United States,US5904192060,590419206
+Wacoal Holdings Corp,WACLY,OTC Markets,Equity,United States,US9300043042,930004304
+Yandex NV,YNDX,NASDAQ,Equity,United States,NL0009805522,N97284108
+New Zealand Oil and Gas Ltd,NZEOF,OTC Markets,Equity,United States,NZNZOE0010S7,NZOE0010S
+CBB Bancorp Inc,CBBI,OTC Markets,Equity,United States,US12481T1097,12481T109
+Aeon Global Health Corp,AGHC,OTC Markets,Equity,United States,US00774U1079,00774U107
+LiNiu Technology Group,LINUF,OTC Markets,Equity,United States,KYG549712084,G54971208
+Stabilis Solutions Inc,SLNG,NASDAQ,Equity,United States,US85236P1012,85236P101
+AmTrust Financial Services Inc ADR Series E,AFSIM,OTC Markets,Equity,United States,US0323598468,032359846
+Aixtron SE ADR,AIIXY,OTC Markets,Equity,United States,US0096061041,009606104
+Andatee China Marine Fuel Services,AMCF,OTC Markets,Equity,United States,US67086W1053,67086W105
+Ameritrans Capital Corp,AMTCQ,OTC Markets,Equity,United States,US03073H1086,03073H108
+American Caresource Holdings Inc,GNOW,OTC Markets,Equity,United States,US02505A2024,02505A202
+Anthera Pharmaceuticals Inc,ANTH,OTC Markets,Equity,United States,US03674U3005,03674U300
+Trecora Resources,TREC,NYSE,Equity,United States,US8946481046,894648104
+B Communications Ltd,BCOMF,OTC Markets,Equity,United States,IL0011076630,001107663
+Berkshire Bancorp Inc,BERK,OTC Markets,Equity,United States,US0845972027,084597202
+BG Medicine Inc,BGMD,OTC Markets,Equity,United States,US08861T2069,08861T206
+Oak Ridge Financial Services Inc,BKOR,OTC Markets,Equity,United States,US6717681091,671768109
+Bonso Electronics International Inc,BNSO,NASDAQ,Equity,United States,VG0985293088,098529308
+Bon-Ton Stores Inc,BONTQ,OTC Markets,Equity,United States,US09776J1016,09776J101
+Biostar Pharmaceuticals Inc,BSPM,OTC Markets,Equity,United States,US0906783016,090678301
+Cache Inc,CACH,OTC Markets,Equity,United States,US1271503088,127150308
+China Auto Logistics Inc,CALI,OTC Markets,Equity,United States,US16936J2024,16936J202
+CCUR Holdings Inc,CCUR,OTC Markets,Equity,United States,US12509F2065,12509F206
+Hong Yuan Holding Group,HGYN,OTC Markets,Equity,United States,US43859A1097,43859A109
+CF Bankshares Inc,CFBK,NASDAQ,Equity,United States,US12520L1098,12520L109
+California First National Bancorp,CFNB,OTC Markets,Equity,United States,US1302221023,130222102
+Town Sports International Holdings,CLUBQ,OTC Markets,Equity,United States,US89214A1025,89214A102
+Commercial National Financial Corp,CNAF,OTC Markets,Equity,United States,US2022171050,202217105
+China Techfaith Wireless Communication Technology Ltd,CNTFY,OTC Markets,Equity,United States,US1694242074,169424207
+Viewtran Group Inc,VIEWF,OTC Markets,Equity,United States,KYG9363W1042,G9363W104
+Coherent Inc,COHR,NASDAQ,Equity,United States,US1924791031,192479103
+Crumbs Bake Shop Inc,CRMBQ,OTC Markets,Equity,United States,US2288031022,228803102
+Hong Kong Television Network Ltd,HKTVY,OTC Markets,Equity,United States,US43858G1076,43858G107
+China XD Plastics Company Limited,CXDC,OTC Markets,Equity,United States,US16948F1075,16948F107
+Destination Maternity Corporation,DESTQ,OTC Markets,Equity,United States,US25065D1000,25065D100
+Dynasil Corporation of America,DYSL,OTC Markets,Equity,United States,US2681022099,268102209
+Education Management Corp,EDMCQ,OTC Markets,Equity,United States,US28140M1036,28140M103
+Exceed Company Ltd,EDSFF,OTC Markets,Equity,United States,VGG323351046,G32335104
+Emclaire Financial Corp,EMCF,NASDAQ,Equity,United States,US2908281023,290828102
+Elbit Imaging Ltd,EMITF,OTC Markets,Equity,United States,IL0010811169,001081116
+Escalon Medical Corp,ESMC,OTC Markets,Equity,United States,US2960743050,296074305
+FalconStor Software Inc,FALC,OTC Markets,Equity,United States,US3061372096,306137209
+First Bancshares Inc,FBSI,OTC Markets,Equity,United States,US3186871006,318687100
+FFD Financial Corp,FFDF,OTC Markets,Equity,United States,US30243C1071,30243C107
+FreeSeas Inc,FREEF,OTC Markets,Equity,United States,MHY264962439,Y26496235
+Global Indemnity PLC,GBLI,NYSE,Equity,United States,US37959R1032,37959R103
